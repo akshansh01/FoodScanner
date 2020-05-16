@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "619367514169",
+    "firebase_url": "https://foodscanner-ac.firebaseio.com",
+    "project_id": "foodscanner-ac",
+    "storage_bucket": "foodscanner-ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619367514169:android:c857778883768295e54de8",
+        "android_client_info": {
+          "package_name": "com.acstudio.foodscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619367514169-4j5rrsjcb7abrkhnvln4thgo91dpi0en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiRbzqcKDsO1eck9-O6dwdefVi4d6sGsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619367514169-4j5rrsjcb7abrkhnvln4thgo91dpi0en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
